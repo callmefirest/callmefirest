@@ -76,7 +76,6 @@
   	<source srcset="https://skillicons.dev/icons?i=nextjs" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   	<img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" title="NextJs" />
 </picture>
----
 
 ## ⭐ GitHub Stats
 
